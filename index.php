@@ -926,11 +926,13 @@
                                 <div class="testimonial-one__quote">
                                     Flexible Classes refers to the process of acquiring knowledge or skills through the use of digital technologies and the internet.
                                     Flexible Classes refers to the process flexible Classes refers to the process
-                                </div><!-- testimonial-quote -->
+                                </div>
+                                <!-- testimonial-quote -->
                                 <div class="testimonial-one__meta">
                                     <h5 class="testimonial-one__title">Sarah Taylor</h5>
                                     <span class="testimonial-one__designation">Seo Expert</span>
-                                </div><!-- testimonial-meta -->
+                                </div>
+                                <!-- testimonial-meta -->
                             </div>
                         </div>
                     </div>
